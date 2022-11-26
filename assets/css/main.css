@@ -1982,17 +1982,17 @@ input, select, textarea {
 		-webkit-flex-wrap: wrap;
 		-ms-flex-wrap: wrap;
 		flex-wrap: wrap;
-		border-radius: 0.25em;
+		border-radius: 1.23em;
 		border: solid 5px rgba(188, 211, 192, 1);
 		background: rgba(136, 188, 151, 1);
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 		.features section {
-			padding: 3.5em 3em 1em 7em ;
+			padding: 3em 3em 2em 2em ;
 			width: 50%;
 			border-top: solid 1px rgba(255, 0, 255, 0.15);
-			position: relative;
+			position: center;
 		}
 
 			.features section:nth-child(-n + 2) {
