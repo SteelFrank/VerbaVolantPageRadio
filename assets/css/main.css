@@ -2204,12 +2204,12 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			.features section {
-				padding: 0.1em 0.1em 0.1em 0.001em ;
+				padding: 0em 0em 0em 0em ;
 			}
 
 				.features section .icon {
 					left: 0;
-					position: relative;
+					position: left;
 					top: 0;
 				}
 
