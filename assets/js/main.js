@@ -187,4 +187,7 @@
 				}
 			});
 
+	// Audio controls
+	
+
 })(jQuery);
