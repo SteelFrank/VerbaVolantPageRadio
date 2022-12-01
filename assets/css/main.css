@@ -2169,6 +2169,14 @@ input, select, textarea {
 			transform: scale(0.5);
 			opacity: 0;
 		}
+		
+		
+		@media screen and (max-width:(2000px)) and (min-width:(980px)) {
+			.features section {
+				padding: 2em 2em 2em 7em ;
+				margin: 0 15em 1em 15em;
+			}
+		}
 
 		@media screen and (max-width: 980px) {
 
@@ -2214,6 +2222,7 @@ input, select, textarea {
 				}
 
 		}
+		
 
 /* Form */
 
